@@ -1,8 +1,6 @@
 {
-    "repository":{
-        "id":"citycraft",
-        "url":"http://ci.citycraft.cn:8800/jenkins/plugin/repository/everything/"
-    },
+    "name":"citycraft",
+    "url":"http://ci.citycraft.cn:8800/jenkins/plugin/repository/everything/",
     "plugins":[
         {
             "groupId":"cn.citycraft",
