@@ -3,5 +3,15 @@
         "id":"citycraft",
         "url":"http://502647092.github.io/repo/citycraft/package.info",
         "type":"maven"
+    },
+    {
+        "id":"mengcraft",
+        "url":"http://502647092.github.io/repo/mengcraft/package.info",
+        "type":"maven"
+    },
+    {
+        "id":"sumcraft",
+        "url":"http://502647092.github.io/repo/sumcraft/package.info",
+        "type":"maven"
     }
 ]
