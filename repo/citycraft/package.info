@@ -49,6 +49,12 @@
             "artifactId":"PrefixGuiManager",
             "description":"图形化称号管理插件",
             "version":"1.0"
+        },
+        {
+            "groupId":"cn.citycraft",
+            "artifactId":"GuiACK",
+            "description":"图形化防挂机验证",
+            "version":"1.0"
         }
     ]
 }
