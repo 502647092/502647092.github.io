@@ -30,7 +30,7 @@
             "groupId":"cn.citycraft",
             "artifactId":"Residence",
             "description":"领地插件",
-            "version":"2.7.0.6",
+            "version":"2.8.0.1",
             "tags":[
                 {
                     "tag":"1.7.10",
