@@ -6,7 +6,7 @@
             "groupId":"cn.citycraft",
             "artifactId":"Yum",
             "description":"服务器插件管理系统",
-            "version":"1.5"
+            "version":"1.6"
         },
         {
             "groupId":"cn.citycraft",
