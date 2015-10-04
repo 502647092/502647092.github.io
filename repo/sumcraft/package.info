@@ -56,6 +56,12 @@
 			"artifactId": "PrefixGuiManager",
 			"description": "图形化称号管理插件",
 			"version": "1.0"
+		},
+		{
+			"groupId": "org.maxgamer",
+			"artifactId": "QuickShop",
+			"description": "快捷商店重制版本",
+			"version": "1.0"
 		}
 	]
 }
