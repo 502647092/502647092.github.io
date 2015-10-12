@@ -11,9 +11,9 @@
 		},
 		{
 			"groupId": "fr.xephi",
-			"artifactId": "authme",
-			"description": "AuthMe登录插件",
-			"version": "5.0-SNAPSHOT"
+			"artifactId": "AuthMe",
+			"description": "登录插件重制版本",
+			"version": "6.0"
 		},
 		{
 			"groupId": "cn.citycraft",
@@ -42,7 +42,7 @@
 		{
 			"groupId": "cn.citycraft",
 			"artifactId": "Residence",
-			"description": "重制版本领地插件",
+			"description": "领地插件重制版本",
 			"version": "2.8.0.5"
 		},
 		{
