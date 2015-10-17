@@ -60,7 +60,7 @@
             "groupId":"org.maxgamer",
             "artifactId":"QuickShop",
             "description":"快捷商店重制版本",
-            "version":"1.4.2"
+            "version":"1.4.3"
         },
         {
             "groupId":"io.github.Cnly.WowSuchCleaner",
