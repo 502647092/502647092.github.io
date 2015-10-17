@@ -1,72 +1,73 @@
 {
-    "name":"sumcraft",
-    "url":"http://ci.sumcraft.net:8080/plugin/repository/everything/",
-    "plugins":[
-        {
-            "groupId":"PlotSquared-Chinese",
-            "artifactId":"PlotSquared-Chinese",
-            "description":"地皮插件汉化版",
-            "version":"2.11.27"
-        },
-        {
-            "groupId":"fr.xephi",
-            "artifactId":"AuthMe",
-            "description":"登录插件重制版本",
-            "version":"6.0"
-        },
-        {
-            "groupId":"cn.citycraft",
-            "artifactId":"Yum",
-            "description":"服务器插件管理系统",
-            "version":"1.7"
-        },
-        {
-            "groupId":"cn.citycraft",
-            "artifactId":"SimpleEssential",
-            "description":"轻量级基础插件",
-            "version":"1.3"
-        },
-        {
-            "groupId":"cn.citycraft",
-            "artifactId":"SimpleProtect",
-            "description":"轻量级保护插件",
-            "version":"1.1"
-        },
-        {
-            "groupId":"cn.citycraft",
-            "artifactId":"CarryEnchantBench",
-            "description":"30级随身附魔台",
-            "version":"1.2"
-        },
-        {
-            "groupId":"cn.citycraft",
-            "artifactId":"Residence",
-            "description":"领地插件重制版本",
-            "version":"2.8.0.6"
-        },
-        {
-            "groupId":"cn.citycraft",
-            "artifactId":"Multikills",
-            "description":"连杀插件",
-            "version":"1.3.6"
-        },
-        {
-            "groupId":"cn.citycraft",
-            "artifactId":"PrefixGuiManager",
-            "description":"图形化称号管理插件",
-            "version":"1.2"
-        },
-        {
-            "groupId":"org.maxgamer",
-            "artifactId":"QuickShop",
-            "description":"快捷商店重制版本",
-            "version":"1.4.3"
-        },
-        {
-            "groupId":"io.github.Cnly.WowSuchCleaner",
-            "artifactId":"WowSuchCleaner",
-            "description":"拍卖行版扫地大妈",
-            "version":"1.6.0-SNAPSHOT"
-        }
-    ]
+	"name": "sumcraft",
+	"url": "http://ci.sumcraft.net:8080/plugin/repository/everything/",
+	"plugins": 
+	[
+		{
+			"groupId": "PlotSquared-Chinese",
+			"artifactId": "PlotSquared-Chinese",
+			"description": "地皮插件汉化版",
+			"version": "2.11.27"
+		},
+		{
+			"groupId": "fr.xephi",
+			"artifactId": "AuthMe",
+			"description": "登录插件重制版本",
+			"version": "6.0"
+		},
+		{
+			"groupId": "cn.citycraft",
+			"artifactId": "Yum",
+			"description": "服务器插件管理系统",
+			"version": "1.7"
+		},
+		{
+			"groupId": "cn.citycraft",
+			"artifactId": "SimpleEssential",
+			"description": "轻量级基础插件",
+			"version": "1.3"
+		},
+		{
+			"groupId": "cn.citycraft",
+			"artifactId": "SimpleProtect",
+			"description": "轻量级保护插件",
+			"version": "1.1"
+		},
+		{
+			"groupId": "cn.citycraft",
+			"artifactId": "CarryEnchantBench",
+			"description": "30级随身附魔台",
+			"version": "1.2"
+		},
+		{
+			"groupId": "cn.citycraft",
+			"artifactId": "Residence",
+			"description": "领地插件重制版本",
+			"version": "2.8.0.6"
+		},
+		{
+			"groupId": "cn.citycraft",
+			"artifactId": "Multikills",
+			"description": "连杀插件",
+			"version": "1.3.6"
+		},
+		{
+			"groupId": "cn.citycraft",
+			"artifactId": "PrefixGuiManager",
+			"description": "图形化称号管理插件",
+			"version": "1.2"
+		},
+		{
+			"groupId": "org.maxgamer",
+			"artifactId": "QuickShop",
+			"description": "快捷商店重制版本",
+			"version": "1.4.3"
+		},
+		{
+			"groupId": "io.github.Cnly.WowSuchCleaner",
+			"artifactId": "WowSuchCleaner",
+			"description": "拍卖行版扫地大妈",
+			"version": "1.6.1"
+		}
+	]
 }
