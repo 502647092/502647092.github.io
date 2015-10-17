@@ -1,5 +1,7 @@
-PrefixGuiManager: [1.0]
-PrefixGuiManager:
-  1:
-    0: true
-LuckLottery: [1.0]
+Deprecated: 
+  PrefixGuiManager: [1.0]
+  LuckLottery: [1.0]
+Delete: 
+  PrefixGuiManager:
+    1:
+      0: true
