@@ -61,6 +61,12 @@
             "artifactId":"QuickShop",
             "description":"快捷商店重制版本",
             "version":"1.4.2"
+        },
+        {
+            "groupId":"io.github.Cnly.WowSuchCleaner",
+            "artifactId":"WowSuchCleaner",
+            "description":"扫地大妈版拍卖行",
+            "version":"1.6.0-SNAPSHOT"
         }
     ]
 }
