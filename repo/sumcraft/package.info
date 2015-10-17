@@ -65,7 +65,7 @@
         {
             "groupId":"io.github.Cnly.WowSuchCleaner",
             "artifactId":"WowSuchCleaner",
-            "description":"扫地大妈版拍卖行",
+            "description":"拍卖行版扫地大妈",
             "version":"1.6.0-SNAPSHOT"
         }
     ]
