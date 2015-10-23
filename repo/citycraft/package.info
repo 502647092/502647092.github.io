@@ -1,7 +1,8 @@
 {
-    "name":"citycraft",
-    "url":"http://ci.citycraft.cn:8800/jenkins/plugin/repository/everything/",
-    "plugins":[
-        
-    ]
+	"name": "citycraft",
+	"url": "http://ci.citycraft.cn:8800/jenkins/plugin/repository/everything/",
+	"plugins": 
+	[
+		
+	]
 }
