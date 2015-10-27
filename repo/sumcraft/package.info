@@ -85,6 +85,13 @@
             "name":"ProtectItem",
             "description":"物品保护系统",
             "version":"1.0"
+        },
+        {
+            "groupId":"cn.citycraft",
+            "artifactId":"TeleportRandom",
+            "name":"TeleportRandom",
+            "description":"随机传送系统",
+            "version":"1.0"
         }
     ]
 }
