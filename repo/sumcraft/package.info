@@ -21,7 +21,7 @@
             "artifactId":"Yum",
             "name":"Yum",
             "description":"服务器插件管理系统",
-            "version":"1.7.2"
+            "version":"1.7.3"
         },
         {
             "groupId":"cn.citycraft",
