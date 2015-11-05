@@ -21,7 +21,7 @@
             "artifactId":"Yum",
             "name":"Yum",
             "description":"服务器插件管理系统",
-            "version":"1.7.3"
+            "version":"1.7.4"
         },
         {
             "groupId":"cn.citycraft",
@@ -49,7 +49,7 @@
             "artifactId":"Residence",
             "name":"Residence",
             "description":"领地插件重制版本",
-            "version":"2.8.0.8"
+            "version":"2.8.1.0"
         },
         {
             "groupId":"cn.citycraft",
@@ -70,7 +70,7 @@
             "artifactId":"QuickShop",
             "name":"QuickShop",
             "description":"快捷商店重制版本",
-            "version":"1.5.1"
+            "version":"1.5.2"
         },
         {
             "groupId":"io.github.Cnly.WowSuchCleaner",
