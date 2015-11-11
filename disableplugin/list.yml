@@ -1,8 +1,12 @@
 Deprecated: 
   PrefixGuiManager: [1.0]
   LuckLottery: [1.0]
+  Residence: [1.0]
 Delete: 
   PrefixGuiManager:
+    1:
+      0: true
+  Residence:
     1:
       0: true
   LuckLottery: 
