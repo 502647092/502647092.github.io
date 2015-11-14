@@ -63,7 +63,7 @@
             "artifactId":"QuickShop",
             "name":"QuickShop",
             "description":"快捷商店重制版本",
-            "version":"1.5.2"
+            "version":"1.6"
         },
         {
             "groupId":"cn.citycraft",
