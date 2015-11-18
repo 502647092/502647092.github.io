@@ -49,7 +49,7 @@
             "artifactId":"Multikills",
             "name":"Multikills",
             "description":"连杀插件",
-            "version":"1.5.3"
+            "version":"1.5.4"
         },
         {
             "groupId":"cn.citycraft",
