@@ -49,7 +49,7 @@
             "artifactId":"Multikills",
             "name":"Multikills",
             "description":"连杀插件",
-            "version":"1.5.1"
+            "version":"1.5.3"
         },
         {
             "groupId":"cn.citycraft",
@@ -63,7 +63,7 @@
             "artifactId":"QuickShop",
             "name":"QuickShop",
             "description":"快捷商店重制版本",
-            "version":"1.6"
+            "version":"1.6.1"
         },
         {
             "groupId":"cn.citycraft",
