@@ -1,12 +1,14 @@
 {
     "name":"citycraft",
     "url":"http://ci.citycraft.cn:8080/plugin/repository/everything/",
+    "pom":"https://coding.net/u/502647092/p/[name]/git/raw/[branch]/pom.xml",
     "plugins":[
         {
             "groupId":"cn.citycraft",
             "artifactId":"AuthMe",
             "name":"AuthMe",
             "description":"登录插件重制版本",
+            "branch":"simple",
             "version":"6.0"
         },
         {
