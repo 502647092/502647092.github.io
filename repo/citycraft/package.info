@@ -80,6 +80,13 @@
             "name":"TeleportRandom",
             "description":"随机传送系统",
             "version":"1.0"
+        },
+        {
+            "groupId":"com.me.tft_02.soulbound",
+            "artifactId":"Soulbound",
+            "name":"Soulbound",
+            "description":"灵魂绑定插件",
+            "version":"1.1.12"
         }
     ]
 }
