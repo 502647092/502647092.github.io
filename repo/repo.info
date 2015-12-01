@@ -1,17 +1,17 @@
 [
     {
         "id":"citycraft",
-        "url":"http://502647092.github.io/repo/citycraft/package.info",
+        "url":"https://coding.net/u/502647092/p/YumData/git/raw/master/repo/citycraft/package.info",
         "type":"maven"
     },
     {
         "id":"mengcraft",
-        "url":"http://502647092.github.io/repo/mengcraft/package.info",
+        "url":"https://coding.net/u/502647092/p/YumData/git/raw/master/repo/mengcraft/package.info",
         "type":"maven"
     },
     {
         "id":"sumcraft",
-        "url":"http://502647092.github.io/repo/sumcraft/package.info",
+        "url":"https://coding.net/u/502647092/p/YumData/git/raw/master/repo/sumcraft/package.info",
         "type":"maven"
     }
 ]
